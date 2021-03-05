@@ -1,2 +1,2 @@
 # wsb-most-mentioned-stocks
-This repo is part of the streamlit stocks dashboard project. This repo specifically contains the wallstreetbets portion which tracks the most mentioned stocks on the subreddit, and displays recent posts too.
+This repo is part of the streamlit stocks dashboard project. This repo specifically contains the wallstreetbets portion which tracks the most mentioned stocks on the subreddit, and displays recent posts too. It also contains the SQL file used to create all the tables in the postgreSQL database such as mentions, and stocks, stock prices, etc. for other portions of the streamlit app.
